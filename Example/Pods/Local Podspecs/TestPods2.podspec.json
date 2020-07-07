@@ -1,8 +1,7 @@
 {
   "name": "TestPods2",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A short description of TestPods2.",
-  "source_files": "**/*.swift",
   "description": "This description is used to generate tags and improve search results.",
   "homepage": "https://github.com/ino1004/TestPods2",
   "license": {
@@ -14,9 +13,10 @@
   },
   "source": {
     "git": "https://github.com/ino1004/TestPods2.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"
-  }
+  },
+  "source_files": "Classes/**/*"
 }

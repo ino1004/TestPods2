@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
+        DataManager.shared.getData()
     }
 
     override func didReceiveMemoryWarning() {

@@ -9,9 +9,9 @@ import Foundation
 
 public class DataManager {
     
-    static let shared = DataManager()
+    public static let shared = DataManager()
     
-    func getData() {
+    public func getData() {
         
     }
 }
